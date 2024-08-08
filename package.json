@@ -16,7 +16,7 @@
     "sequelize",
     "rest api"
   ],
-  "author": "bezkoder",
+  "author": "me",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
@@ -26,6 +26,7 @@
     "mysql2": "^3.10.3",
     "mysql3": "^0.6.0",
     "nodemon": "^3.1.4",
+    "pm2": "^5.4.2",
     "sequelize": "^6.28.0",
     "tedious": "^15.1.2"
   },

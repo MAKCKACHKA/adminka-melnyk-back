@@ -34,6 +34,9 @@ module.exports = (sequelize, Sequelize) => {
     authorPhotoLocation: {
       type: Sequelize.STRING,
     },
+    posterPhotoLocation: {
+      type: Sequelize.STRING,
+    },
     date: {
       type: Sequelize.STRING,
     },
